@@ -1,0 +1,266 @@
+[
+  {
+    "558198923680-1634227248@g.us": {
+      "id": "558198923680-1634227248@g.us",
+      "player": "558896934293@s.whatsapp.net",
+      "game": {
+        "currentStep": 7,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv13.akinator.com:9360/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 88.9199,
+        "guessCount": 3,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem é do gênero masculino?",
+        "answers": [
+          {
+            "id": "28043",
+            "name": "Você!",
+            "id_base": "969876",
+            "proba": "0.854572",
+            "description": "-",
+            "valide_contrainte": "1",
+            "ranking": "1",
+            "pseudo": "GHOST",
+            "picture_path": "partenaire/o/969876__905962236.jpg",
+            "corrupt": "0",
+            "relative": "1",
+            "award_id": "-1",
+            "flag_photo": 0,
+            "absolute_picture_path": "https://photos.clarinea.fr/BL_4_pt/600/partenaire/o/969876__905962236.jpg",
+            "nsfw": false
+          },
+          {
+            "id": "23489",
+            "name": "Seu Peru",
+            "id_base": "726300",
+            "proba": "0.0526462",
+            "description": "Escolinha do Professor Raimundo",
+            "valide_contrainte": "1",
+            "ranking": "287",
+            "pseudo": "X",
+            "picture_path": "partenaire/z/726300__2122661978.jpg",
+            "corrupt": "0",
+            "relative": "1",
+            "award_id": "-1",
+            "flag_photo": 0,
+            "absolute_picture_path": "https://photos.clarinea.fr/BL_4_pt/partenaire/z/726300__2122661978.jpg",
+            "nsfw": true
+          },
+          {
+            "id": "34344",
+            "name": "Gigante",
+            "id_base": "1915579",
+            "proba": "0.0121222",
+            "description": "Ben 10",
+            "valide_contrainte": "1",
+            "ranking": "9",
+            "pseudo": "Rodrigo",
+            "picture_path": "partenaire/v/1915579__1290960327.jpg",
+            "corrupt": "1",
+            "relative": "0",
+            "award_id": "-1",
+            "flag_photo": 0,
+            "absolute_picture_path": "https://photos.clarinea.fr/BL_4_pt/partenaire/v/1915579__1290960327.jpg",
+            "nsfw": false
+          }
+        ],
+        "uriObj": {
+          "uid": "1b1d40e6-bd90-11ec-b958-0cc47a691511",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "1b1d40e6-bd90-11ec-b958-0cc47a691511",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "776",
+        "signature": "859680699",
+        "challenge_auth": "fd8f62b5-9137-40ef-b2fa-b077f05592a8"
+      }
+    },
+    "5521985857877-1622495920@g.us": {
+      "id": "5521985857877-1622495920@g.us",
+      "player": "558896934293@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv11.akinator.com:9401/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem é uma menina?",
+        "answers": [
+          "Sim",
+          "Não",
+          "Não sei",
+          "Provavelmente sim",
+          "Provavelmente não"
+        ],
+        "uriObj": {
+          "uid": "392e863e-c1b0-11ec-9d39-0cc47a691511",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "392e863e-c1b0-11ec-9d39-0cc47a691511",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "1363",
+        "signature": "1537843885",
+        "challenge_auth": "9e461cc2-5e4e-444e-8e23-ba97c7258c88"
+      }
+    },
+    "120363039172453445@g.us": {
+      "id": "120363039172453445@g.us",
+      "player": "558896934293@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv11.akinator.com:9401/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem faz parte de um anime (animação japonesa)?",
+        "answers": [
+          "Sim",
+          "Não",
+          "Não sei",
+          "Provavelmente sim",
+          "Provavelmente não"
+        ],
+        "uriObj": {
+          "uid": "02c328de-bd96-11ec-9f8a-0cc47a691511",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "02c328de-bd96-11ec-9f8a-0cc47a691511",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "265",
+        "signature": "118351310",
+        "challenge_auth": "a3722843-7e21-4f9a-acf3-58961bbe645f"
+      }
+    },
+    "556484266575-1635375883@g.us": {
+      "id": "556484266575-1635375883@g.us",
+      "player": "556484338542@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv13.akinator.com:9360/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem é brasileiro?",
+        "answers": [
+          "Sim",
+          "Não",
+          "Não sei",
+          "Provavelmente sim",
+          "Provavelmente não"
+        ],
+        "uriObj": {
+          "uid": "b1dca2c4-c245-11ec-8782-0cc47a691511",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "b1dca2c4-c245-11ec-8782-0cc47a691511",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "496",
+        "signature": "76025394",
+        "challenge_auth": "35dd0cdd-eedd-4f7f-bb54-4518e742ea9d"
+      }
+    },
+    "553175416530@s.whatsapp.net": {
+      "id": "553175416530@s.whatsapp.net",
+      "player": "553175416530@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv13.akinator.com:9360/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem é uma menina?",
+        "answers": [
+          "Sim",
+          "Não",
+          "Não sei",
+          "Provavelmente sim",
+          "Provavelmente não"
+        ],
+        "uriObj": {
+          "uid": "8e00cfae-cb4d-11ec-a987-0cc47a691511",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "8e00cfae-cb4d-11ec-a987-0cc47a691511",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "498",
+        "signature": "455856565",
+        "challenge_auth": "2a9da103-802e-437e-a734-59b389a68cf1"
+      }
+    },
+    "120363024522527282@g.us": {
+      "id": "120363024522527282@g.us",
+      "player": "553175416530@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "pt",
+        "uri": "https://pt.akinator.com",
+        "urlApiWs": "https://srv13.akinator.com:9360/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "O seu personagem é uma mulher?",
+        "answers": [
+          "Sim",
+          "Não",
+          "Não sei",
+          "Provavelmente sim",
+          "Provavelmente não"
+        ],
+        "uriObj": {
+          "uid": "c9e33ac0-cb48-11ec-9143-0cc47adc2898",
+          "frontaddr": "MTUxLjgwLjM2LjEzOA=="
+        },
+        "uid": "c9e33ac0-cb48-11ec-9143-0cc47adc2898",
+        "frontaddr": "MTUxLjgwLjM2LjEzOA==",
+        "session": "71",
+        "signature": "1914605288",
+        "challenge_auth": "a0b13328-54f5-4c69-909a-b095975050c1"
+      }
+    }
+  }
+]
